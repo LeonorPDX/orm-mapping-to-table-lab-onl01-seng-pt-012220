@@ -40,7 +40,7 @@ class Student
   end
   
   def self.create(hash)
-    
+    student = self.new
   end
   
 end
